@@ -14,17 +14,37 @@ is a breakdown of the locations of each element of my assignment:
 
     belly-button-challenge
         __MACOSX
-        uk_foods
-            Resources
-                establishments.json
-            NoSQL_analysis_starter.ipynb
-            NoSQL_setup_starter.ipynb
+        belly-button-challenge
+            data
+                samples.json
+            Images
+                bacteria.jpg
+                bubble_chart.png
+                dasboard_part1.png
+                dasboard_part2.png
+                database_connection.png
+                database_url.png
+                deploy01.png
+                deploy.05.png
+                dropdown.png
+                gauge.png
+                hw01.png
+                hw02.png
+                hw03.png
+                pie_chart.png
+                provision_database.png
+            myCode
+                static
+                    js
+                        app.js
+                index.html
+                samples.json
          README.md
 
 3. 
-This assignment serves to track my understanding of the NoSQL language and manipulating data with MongoDB.
+This assignment serves to track my understanding of the JavaScript language, wrangling data from JSONs and creating interactive visualizations with D3.
 
-NoSQL Challenge:
+Belly Button Challenge:
    My task was to read the data from the "establishments.json" file and perform queries on the dataset! For parts 1 and 2, we set up the database to be used in MongoDB and edit the data in preparation for an exploratory analysis. In this analysis, we pull data from the table to analyze and make conlusions on which restaurants in the dataset to eat from. 
    The establishments.json file lists Businesses, their addresses, their websites, and other information. 
    
